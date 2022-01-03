@@ -1,0 +1,24 @@
+{
+  "name": "open-with-mpv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oriely/open-with-mpv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oriely/open-with-mpv/issues"
+  },
+  "homepage": "https://github.com/Oriely/open-with-mpv#readme",
+  "dependencies": {
+    "regedit": "^5.0.0",
+    "tasklist": "^5.0.0",
+    "windows": "^0.1.0"
+  }
+}

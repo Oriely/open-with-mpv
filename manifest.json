@@ -1,0 +1,25 @@
+{
+
+    "manifest_version": 2,
+    "name": "Open with MPV",
+    "version": "1.0",
+
+    "description": "Opens youtube link in mpv.",
+    "permissions": ["*://developer.mozilla.org/*", "tabs", "nativeMessaging", "notifications", "activeTab", "contextMenus"],
+    
+    "background": {
+        "scripts": ["index.js"]
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "open_with_mpv@slockertsen.no",
+            "strict_min_version": "50.0"
+        }
+    },
+
+    "browser_action": {
+        "default_icon": {
+            "32": "icons/mpv-32.png"
+        }
+    }
+}
