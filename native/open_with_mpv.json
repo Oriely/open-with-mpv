@@ -1,1 +1,1 @@
-{"name":"open_with_mpv","description":"Opens youtube link in mkv.","path":"C:\\Users\\slock\\Documents\\Koding\\open-with-mpv\\native\\open_with_mpv.bat","type":"stdio","allowed_extensions":["open_with_mpv@slockertsen.no"]}
+{"name":"open_with_mpv","description":"Opens youtube link in mkv.","path":"","type":"stdio","allowed_extensions":["open_with_mpv@slockertsen.no"]}
